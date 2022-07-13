@@ -16,8 +16,4 @@ public class HelloController {
         return "Welcome!";
     }
 
-    @GetMapping
-    public String sayWelcome3(){
-        return "Welcome!";
-    }
 }
